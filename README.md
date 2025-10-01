@@ -6,22 +6,22 @@ I'm a passionate **Computer Science student** from India, always exploring new t
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year B.Tech (CSE) student @ HMR Institute of Technology & Management  
-- 🌱 Currently learning: **Web Development, Cloud Computing, and AI/ML**  
-- 💡 Interests: **Complexity Theory, Operating Systems, Networking, and Full-Stack Projects**  
+- 🎓 3rd Year B.Tech (CSE) student @ HMR Institute of Technology & Management  
+- 🌱 Currently learning: **Web Development, App Development, and AI/ML**  
+- 💡 Interests: **Operating Systems, App Development, and Full-Stack Projects**  
 - ⚡ Fun fact: I love turning ideas into projects 🚀  
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages**  
-`C++` | `Java` | `Python` | `JavaScript` | `TypeScript`
+`C++` | `Java` | `Python` | `JavaScript` | `TypeScript` | `React` 
 
 **Web Development**  
 `HTML` | `CSS` | `React` | `Node.js` | `Express.js` | `Next.js`
 
 **Databases**  
-`MySQL` | `MongoDB` | `PostgreSQL` | `Supabase`
+`MySQL` | `MongoDB` | `PostgreSQL` | `Supabase` | `SQLite`
 
 **Other Tools**  
 `Git & GitHub` | `Docker` | `VS Code` | `Linux`  
